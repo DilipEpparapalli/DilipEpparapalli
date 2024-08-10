@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi, I'm Dilip Epparapalli! 👋
 
+## About Me
+I'm a passinate computer engineering graduate at Gerorge Mason University(GMU).
+
+Currently, I'm working as a research intern at  Cryptographic Engineering Research Group (CERG).
+
+I'm interested in Digital Design, Computer Architecture, FPGA/ASIC Design, SW/HW Co-Design. 
 <!--
 **DilipEpparapalli/DilipEpparapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
