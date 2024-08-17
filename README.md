@@ -1,11 +1,13 @@
 # Hi, I'm Dilip Epparapalli! 👋
 
 ## About Me
-I'm a passinate computer engineering graduate at Gerorge Mason University(GMU).
+I'm a passionate computer engineering graduate at George Mason University(GMU).
 
-Currently, I'm working as a research intern at  Cryptographic Engineering Research Group (CERG).
+Currently, I'm working as a research intern at Cryptographic Engineering Research Group (CERG) learning about the SoC Design.
 
-I'm interested in Digital Design, Computer Architecture, FPGA/ASIC Design, SW/HW Co-Design. 
+I'm interested in Digital Design, Computer Architecture, FPGA/ASIC Design, SW/HW Co-Design, Cryptography, Post-Quantum Cryptography(PQC). 
+
+I worked as a Graduate Teaching Assistant for ECE 545 Digital System Design with VHDL , ECE 448 FPGA Design with VHDL Lab and ECE 232 Digital System Design Lab.
 <!--
 **DilipEpparapalli/DilipEpparapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
