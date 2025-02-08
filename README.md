@@ -13,7 +13,9 @@ Research Intern at the Cryptographic Engineering Research Group (CERG), where I 
 Graduate Teaching Assistant (GTA) for 3 semesters, mentoring students in:
 
 -ECE 545 – Digital System Design with VHDL
+
 -ECE 448 – FPGA Design with VHDL Lab
+
 -ECE 232 – Digital System Design Lab
 
 I truly enjoyed my time teaching and guiding students, especially when they challenged me with tough questions!
