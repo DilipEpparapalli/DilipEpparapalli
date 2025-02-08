@@ -9,10 +9,13 @@ I have a strong interest in Digital Design, Computer Architecture, FPGA/ASIC Des
 🔬 Research & Teaching Experience
     
 Research Intern at the Cryptographic Engineering Research Group (CERG), where I gained hands-on experience in cryptographic hardware implementations.
+
 Graduate Teaching Assistant (GTA) for 3 semesters, mentoring students in:
-ECE 545 – Digital System Design with VHDL
-ECE 448 – FPGA Design with VHDL Lab
-ECE 232 – Digital System Design Lab
+
+-ECE 545 – Digital System Design with VHDL
+-ECE 448 – FPGA Design with VHDL Lab
+-ECE 232 – Digital System Design Lab
+
 I truly enjoyed my time teaching and guiding students, especially when they challenged me with tough questions!
 
 **Graduate Student Representative | GAPSA**
